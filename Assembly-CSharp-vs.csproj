@@ -51,6 +51,7 @@
      <Compile Include="Assets\c#\ExampleSyntax.cs" />
      <Compile Include="Assets\c#\IfStatements.cs" />
      <Compile Include="Assets\c#\VariablesAndFunctions.cs" />
+     <Compile Include="Assets\c#\WhileLoop.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
