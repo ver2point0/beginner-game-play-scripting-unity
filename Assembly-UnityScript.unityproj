@@ -46,11 +46,11 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\BasicSyntax.js" />
-     <Compile Include="Assets\Behavior.js" />
-     <Compile Include="Assets\ExampleJsSyntax.js" />
-     <Compile Include="Assets\IfStatements.js" />
-     <Compile Include="Assets\VariablesAndFunctions.js" />
+     <Compile Include="Assets\js\BasicSyntax.js" />
+     <Compile Include="Assets\js\Behavior.js" />
+     <Compile Include="Assets\js\ExampleJsSyntax.js" />
+     <Compile Include="Assets\js\IfStatements.js" />
+     <Compile Include="Assets\js\VariablesAndFunctions.js" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

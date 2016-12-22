@@ -1,6 +1,8 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
+Project("{2720B74E-650D-6741-B79D-19AED6029DC9}") = "beginnerGameplayScripting", "Assembly-CSharp.csproj", "{A5E5BA52-5A14-B975-531E-C6B2929B7628}"
+EndProject
 Project("{2720B74E-650D-6741-B79D-19AED6029DC9}") = "beginnerGameplayScripting", "Assembly-UnityScript.unityproj", "{4F6CE7A4-B10C-C7CC-E6B7-90A822DC82A1}"
 EndProject
 Global
@@ -9,6 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5E5BA52-5A14-B975-531E-C6B2929B7628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5E5BA52-5A14-B975-531E-C6B2929B7628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5E5BA52-5A14-B975-531E-C6B2929B7628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5E5BA52-5A14-B975-531E-C6B2929B7628}.Release|Any CPU.Build.0 = Release|Any CPU
 		{4F6CE7A4-B10C-C7CC-E6B7-90A822DC82A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4F6CE7A4-B10C-C7CC-E6B7-90A822DC82A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F6CE7A4-B10C-C7CC-E6B7-90A822DC82A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -17,7 +23,7 @@ Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-							GlobalSection(MonoDevelopProperties) = preSolution
+																			GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1

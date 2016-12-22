@@ -1,8 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\IfStatements.js">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\c#\ExampleSyntax.cs">
     <Files>
-      <File FileName="Assets\IfStatements.js" Line="5" Column="7" />
+      <File FileName="Assets\c#\BasicSyntax.cs" Line="10" Column="46" />
+      <File FileName="Assets\c#\ExampleSyntax.cs" Line="13" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
