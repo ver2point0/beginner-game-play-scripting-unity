@@ -1,8 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Behavior.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\ExampleJsSyntax.js">
     <Files>
-      <File FileName="Assets\Behavior.js" Line="13" Column="3" />
+      <File FileName="Assets\ExampleJsSyntax.js" Line="6" Column="27" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
