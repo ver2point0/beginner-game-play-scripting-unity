@@ -48,6 +48,7 @@
   <ItemGroup>
      <Compile Include="Assets\c#\BasicSyntax.cs" />
      <Compile Include="Assets\c#\Behavior.cs" />
+     <Compile Include="Assets\c#\DoWhileLoop.cs" />
      <Compile Include="Assets\c#\ExampleSyntax.cs" />
      <Compile Include="Assets\c#\IfStatements.cs" />
      <Compile Include="Assets\c#\VariablesAndFunctions.cs" />
