@@ -1,8 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\c#\ForEachLoop.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\c#\ScopeAndAccessModifiers.cs">
     <Files>
-      <File FileName="Assets\c#\ForEachLoop.cs" Line="15" Column="16" />
+      <File FileName="Assets\c#\ScopeAndAccessModifiers.cs" Line="20" Column="14" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
