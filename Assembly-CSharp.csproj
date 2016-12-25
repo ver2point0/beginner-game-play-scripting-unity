@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\c#\AnotherClass.cs" />
+     <Compile Include="Assets\c#\AwakeAndStart.cs" />
      <Compile Include="Assets\c#\BasicSyntax.cs" />
      <Compile Include="Assets\c#\Behavior.cs" />
      <Compile Include="Assets\c#\DoWhileLoop.cs" />
@@ -55,6 +56,7 @@
      <Compile Include="Assets\c#\ForLoop.cs" />
      <Compile Include="Assets\c#\IfStatements.cs" />
      <Compile Include="Assets\c#\ScopeAndAccessModifiers.cs" />
+     <Compile Include="Assets\c#\UpdateAndFixedUpdate.cs" />
      <Compile Include="Assets\c#\VariablesAndFunctions.cs" />
      <Compile Include="Assets\c#\WhileLoop.cs" />
  <Reference Include="UnityEngine.UI">
