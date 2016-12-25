@@ -1,8 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\c#\AwakeAndStart.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\c#\UpdateAndFixedUpdate.cs">
     <Files>
-      <File FileName="Assets\c#\AwakeAndStart.cs" Line="12" Column="3" />
+      <File FileName="Assets\c#\UpdateAndFixedUpdate.cs" Line="13" Column="48" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
