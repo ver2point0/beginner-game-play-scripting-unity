@@ -67,16 +67,18 @@
 -define:UNITY_EDITOR
 -define:UNITY_EDITOR_64
 -define:UNITY_EDITOR_WIN
-Assets/AwakeAndStart.cs
 "Assets/c#/AnotherClass.cs"
+"Assets/c#/AwakeAndStart.cs"
 "Assets/c#/BasicSyntax.cs"
 "Assets/c#/Behavior.cs"
 "Assets/c#/DoWhileLoop.cs"
+"Assets/c#/EnableComponents.cs"
 "Assets/c#/ExampleSyntax.cs"
 "Assets/c#/ForEachLoop.cs"
 "Assets/c#/ForLoop.cs"
 "Assets/c#/IfStatements.cs"
 "Assets/c#/ScopeAndAccessModifiers.cs"
+"Assets/c#/UpdateAndFixedUpdate.cs"
 "Assets/c#/VariablesAndFunctions.cs"
 "Assets/c#/WhileLoop.cs"
 -r:"C:\Program Files\Unity\Editor\Data\Mono\lib\mono\unity\System.Runtime.Serialization.dll"
