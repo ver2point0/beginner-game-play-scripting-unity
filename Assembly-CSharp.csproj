@@ -51,6 +51,7 @@
      <Compile Include="Assets\c#\AwakeAndStart.cs" />
      <Compile Include="Assets\c#\BasicSyntax.cs" />
      <Compile Include="Assets\c#\Behavior.cs" />
+     <Compile Include="Assets\c#\CameraLookAt.cs" />
      <Compile Include="Assets\c#\CheckState.cs" />
      <Compile Include="Assets\c#\DoWhileLoop.cs" />
      <Compile Include="Assets\c#\EnableComponents.cs" />
