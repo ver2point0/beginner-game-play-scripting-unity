@@ -53,6 +53,9 @@
      <Compile Include="Assets\c#\Behavior.cs" />
      <Compile Include="Assets\c#\CameraLookAt.cs" />
      <Compile Include="Assets\c#\CheckState.cs" />
+     <Compile Include="Assets\c#\DestroyBasic.cs" />
+     <Compile Include="Assets\c#\DestroyComponent.cs" />
+     <Compile Include="Assets\c#\DestroyOther.cs" />
      <Compile Include="Assets\c#\DoWhileLoop.cs" />
      <Compile Include="Assets\c#\EnableComponents.cs" />
      <Compile Include="Assets\c#\ExampleSyntax.cs" />
