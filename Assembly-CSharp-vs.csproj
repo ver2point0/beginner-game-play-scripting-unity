@@ -60,13 +60,13 @@
      <Compile Include="Assets\c#\DestroyComponent.cs" />
      <Compile Include="Assets\c#\DestroyOther.cs" />
      <Compile Include="Assets\c#\DoWhileLoop.cs" />
+     <Compile Include="Assets\c#\DualAxisExample.cs" />
      <Compile Include="Assets\c#\EnableComponents.cs" />
      <Compile Include="Assets\c#\ExampleSyntax.cs" />
      <Compile Include="Assets\c#\ForEachLoop.cs" />
      <Compile Include="Assets\c#\ForLoop.cs" />
      <Compile Include="Assets\c#\IfStatements.cs" />
      <Compile Include="Assets\c#\KeyInput.cs" />
-     <Compile Include="Assets\c#\NewBehaviourScript.cs" />
      <Compile Include="Assets\c#\ScopeAndAccessModifiers.cs" />
      <Compile Include="Assets\c#\TransformFunctions.cs" />
      <Compile Include="Assets\c#\UpdateAndFixedUpdate.cs" />
