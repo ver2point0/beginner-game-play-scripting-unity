@@ -67,6 +67,7 @@
      <Compile Include="Assets\c#\ForLoop.cs" />
      <Compile Include="Assets\c#\IfStatements.cs" />
      <Compile Include="Assets\c#\KeyInput.cs" />
+     <Compile Include="Assets\c#\MouseClick.cs" />
      <Compile Include="Assets\c#\ScopeAndAccessModifiers.cs" />
      <Compile Include="Assets\c#\TransformFunctions.cs" />
      <Compile Include="Assets\c#\UpdateAndFixedUpdate.cs" />
