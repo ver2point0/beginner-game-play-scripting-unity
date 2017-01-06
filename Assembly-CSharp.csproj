@@ -72,6 +72,7 @@
      <Compile Include="Assets\c#\ScopeAndAccessModifiers.cs" />
      <Compile Include="Assets\c#\TransformFunctions.cs" />
      <Compile Include="Assets\c#\UpdateAndFixedUpdate.cs" />
+     <Compile Include="Assets\c#\UsingDeltaTime.cs" />
      <Compile Include="Assets\c#\UsingOtherComponents.cs" />
      <Compile Include="Assets\c#\VariablesAndFunctions.cs" />
      <Compile Include="Assets\c#\WhileLoop.cs" />
