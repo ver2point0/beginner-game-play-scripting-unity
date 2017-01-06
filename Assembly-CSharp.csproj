@@ -48,6 +48,7 @@
   <ItemGroup>
      <Compile Include="Assets\c#\ActiveObjects.cs" />
      <Compile Include="Assets\c#\AnotherClass.cs" />
+     <Compile Include="Assets\c#\AnotherScript.cs" />
      <Compile Include="Assets\c#\AwakeAndStart.cs" />
      <Compile Include="Assets\c#\AxisExample.cs" />
      <Compile Include="Assets\c#\AxisRawExample.cs" />
@@ -71,8 +72,10 @@
      <Compile Include="Assets\c#\ScopeAndAccessModifiers.cs" />
      <Compile Include="Assets\c#\TransformFunctions.cs" />
      <Compile Include="Assets\c#\UpdateAndFixedUpdate.cs" />
+     <Compile Include="Assets\c#\UsingOtherComponents.cs" />
      <Compile Include="Assets\c#\VariablesAndFunctions.cs" />
      <Compile Include="Assets\c#\WhileLoop.cs" />
+     <Compile Include="Assets\c#\YetAnotherScript.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
