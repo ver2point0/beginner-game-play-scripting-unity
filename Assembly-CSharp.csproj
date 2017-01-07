@@ -57,6 +57,7 @@
      <Compile Include="Assets\c#\ButtonInput.cs" />
      <Compile Include="Assets\c#\CameraLookAt.cs" />
      <Compile Include="Assets\c#\CheckState.cs" />
+     <Compile Include="Assets\c#\DatatypeScript.cs" />
      <Compile Include="Assets\c#\DestroyBasic.cs" />
      <Compile Include="Assets\c#\DestroyComponent.cs" />
      <Compile Include="Assets\c#\DestroyOther.cs" />
