@@ -68,9 +68,12 @@
      <Compile Include="Assets\c#\ForEachLoop.cs" />
      <Compile Include="Assets\c#\ForLoop.cs" />
      <Compile Include="Assets\c#\IfStatements.cs" />
+     <Compile Include="Assets\c#\Inventory.cs" />
      <Compile Include="Assets\c#\KeyInput.cs" />
      <Compile Include="Assets\c#\MouseClick.cs" />
+     <Compile Include="Assets\c#\MovementControls.cs" />
      <Compile Include="Assets\c#\ScopeAndAccessModifiers.cs" />
+     <Compile Include="Assets\c#\Shooting.cs" />
      <Compile Include="Assets\c#\SingleCharacterScript.cs" />
      <Compile Include="Assets\c#\TransformFunctions.cs" />
      <Compile Include="Assets\c#\UpdateAndFixedUpdate.cs" />

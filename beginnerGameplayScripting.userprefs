@@ -1,9 +1,10 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\c#\DatatypeScript.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\c#\Shooting.cs">
     <Files>
-      <File FileName="Assets\c#\SingleCharacterScript.cs" Line="31" Column="3" />
-      <File FileName="Assets\c#\DatatypeScript.cs" Line="8" Column="1" />
+      <File FileName="Assets\c#\Inventory.cs" Line="25" Column="20" />
+      <File FileName="Assets\c#\MovementControls.cs" Line="18" Column="38" />
+      <File FileName="Assets\c#\Shooting.cs" Line="23" Column="64" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
