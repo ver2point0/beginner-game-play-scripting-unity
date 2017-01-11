@@ -72,12 +72,14 @@
      <Compile Include="Assets\c#\KeyInput.cs" />
      <Compile Include="Assets\c#\MouseClick.cs" />
      <Compile Include="Assets\c#\MovementControls.cs" />
+     <Compile Include="Assets\c#\RocketDestruction.cs" />
      <Compile Include="Assets\c#\ScopeAndAccessModifiers.cs" />
      <Compile Include="Assets\c#\Shooting.cs" />
      <Compile Include="Assets\c#\SingleCharacterScript.cs" />
      <Compile Include="Assets\c#\TransformFunctions.cs" />
      <Compile Include="Assets\c#\UpdateAndFixedUpdate.cs" />
      <Compile Include="Assets\c#\UsingDeltaTime.cs" />
+     <Compile Include="Assets\c#\UsingInstantiate.cs" />
      <Compile Include="Assets\c#\UsingOtherComponents.cs" />
      <Compile Include="Assets\c#\VariablesAndFunctions.cs" />
      <Compile Include="Assets\c#\WhileLoop.cs" />
