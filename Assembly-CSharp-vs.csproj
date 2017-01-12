@@ -49,6 +49,7 @@
      <Compile Include="Assets\c#\ActiveObjects.cs" />
      <Compile Include="Assets\c#\AnotherClass.cs" />
      <Compile Include="Assets\c#\AnotherScript.cs" />
+     <Compile Include="Assets\c#\Array.cs" />
      <Compile Include="Assets\c#\AwakeAndStart.cs" />
      <Compile Include="Assets\c#\AxisExample.cs" />
      <Compile Include="Assets\c#\AxisRawExample.cs" />
