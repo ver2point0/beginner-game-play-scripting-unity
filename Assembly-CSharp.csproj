@@ -70,6 +70,8 @@
      <Compile Include="Assets\c#\ForLoop.cs" />
      <Compile Include="Assets\c#\IfStatements.cs" />
      <Compile Include="Assets\c#\Inventory.cs" />
+     <Compile Include="Assets\c#\InvokeRepeating.cs" />
+     <Compile Include="Assets\c#\InvokeScript.cs" />
      <Compile Include="Assets\c#\KeyInput.cs" />
      <Compile Include="Assets\c#\MouseClick.cs" />
      <Compile Include="Assets\c#\MovementControls.cs" />
