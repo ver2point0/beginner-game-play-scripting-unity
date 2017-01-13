@@ -1,8 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\c#\InvokeScript.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\c#\InvokeRepeating.cs">
     <Files>
-      <File FileName="Assets\c#\InvokeScript.cs" Line="11" Column="2" />
+      <File FileName="Assets\c#\InvokeScript.cs" Line="11" Column="1" />
+      <File FileName="Assets\c#\InvokeRepeating.cs" Line="11" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

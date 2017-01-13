@@ -65,6 +65,7 @@
      <Compile Include="Assets\c#\DoWhileLoop.cs" />
      <Compile Include="Assets\c#\DualAxisExample.cs" />
      <Compile Include="Assets\c#\EnableComponents.cs" />
+     <Compile Include="Assets\c#\EnumScript.cs" />
      <Compile Include="Assets\c#\ExampleSyntax.cs" />
      <Compile Include="Assets\c#\ForEachLoop.cs" />
      <Compile Include="Assets\c#\ForLoop.cs" />
